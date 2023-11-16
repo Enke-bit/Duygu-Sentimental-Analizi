@@ -40,6 +40,8 @@ def mesaj_hissi_bul(cumle):
         
     return hissler
 
+
+
 cumle_1 = "naber abi? :)                   "
 cumle_2 = "tabiki buyrun                   "
 cumle_3 = "saçmalamayı birak artik!        "
@@ -51,6 +53,9 @@ cumleler = [cumle_1, cumle_2, cumle_3, cumle_4, cumle_5, cumle_6, cumle_7]
 
 for cumle in cumleler:
     print(cumle, '\t', mesaj_hissi_bul(cumle))
+
+
+
 """
 AÇIKLAMA;
 bu kodun yakın kampüs Erol Mesut Gün eğitim videosunda yapmaktadır ben ise bunu daha gelişmiş bir yapıya oluşturmak istiyorum.
