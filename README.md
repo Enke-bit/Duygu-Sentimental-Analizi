@@ -42,19 +42,6 @@ def mesaj_hissi_bul(cumle):
 
 
 
-cumle_1 = "naber abi? :)                   "
-cumle_2 = "tabiki buyrun                   "
-cumle_3 = "saçmalamayı birak artik!        "
-cumle_4 = "belki yarından'da yakin         "
-cumle_5 = "elbet birgün buluşaçağız        "
-cumle_6 = "senın bu durumuna uzuldum.      "
-cumle_7 = "terfi aldıgına sevindim.        "
-cumleler = [cumle_1, cumle_2, cumle_3, cumle_4, cumle_5, cumle_6, cumle_7]
-
-for cumle in cumleler:
-    print(cumle, '\t', mesaj_hissi_bul(cumle))
-
-
 
 """
 AÇIKLAMA;
